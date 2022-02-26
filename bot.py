@@ -15,7 +15,7 @@ driver.get('https://web.whatsapp.com/') #abre o site Whatsapp Web
 time.sleep(15) #da um sleep de 15 segundos, tempo para scannear o QRCODE
 
 #Contatos/Grupos - Informar o nome(s) de Grupos ou Contatos que serao enviadas as mensagens
-contatos = ['PALMEIRAS FUT','CONDOMINIO AREZZO','FAMILIA 02','FUTEBOL 2020','CLIENTES 02']
+contatos = ['PALMEIRAS FUT','CONDOMINIO AREZZO']
 
 #Mensagem - Mensagem que sera enviada
 mensagem = 'Bom dia grupo '
